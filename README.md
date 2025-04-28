@@ -1,1 +1,1 @@
-# aniem-site-template
+# anime-site-template
